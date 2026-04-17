@@ -79,3 +79,41 @@
 - Příděl po vysídlení Němců dostal **Karel Holeček** (ne Hoffmann!)
 - Hofman Karl (Němec) byl PŘEDCHOZÍ majitel čp. 49, vysídlen 1945
 - Holečkovi se nastěhovali po vysídlení, "bydleli tam s Němci" v přechodné době
+
+## UPDATE 17.4.2026 ~16:00
+
+### NOVÉ NÁLEZY
+
+#### Matrika 35-7 — nalezené křestní záznamy Hoffmannů
+- **Stránka 276** (rok 1799): Franz Xaveri Johann Hoffmann, nar. 29.11.1799, rodiče Joseph Hoffmann + **ux: Ditha/Dithe/Helena(?)**
+- **Stránka 275** (rok 1795): Katharina Marie, nar. 5.10.1795, rodiče Joseph Hoffmann + **Evronia/Eronova Hoffmannova**
+- **Stránka 277** (rok 1801): Augustinus Aloysius, nar. 13.9.1801, rodiče Joseph Hoffmann + **Helena(?)**
+- **Stránka 278** (rok 1803): Ignatius Bartholus, nar. 22.8.1803, Joseph Hoffman + **Hertmanni/Ertmanni**
+- MATKA SE JMENUJE PRAVDĚPODOBNĚ **HELENA** — ale přesné čtení starého rukopisu je obtížné
+
+#### Transkribus HTR
+- Účet vytvořen: clawdia108@gmail.com, 50 kreditů
+- 5 stránek nahráno na Desktop pro manuální zpracování v Transkribus
+- Token: Bearer JWT (expiruje rychle)
+
+#### Židovská komunita Dvůr Králové
+- Židovská obec existovala — podílela se na textilním průmyslu
+- Synagoga zbořena v 60. letech
+- Židovský hřbitov existuje (Štefánikova ul.)
+- Dvůr Králové patřil pod ŽNO Trutnov
+- Židovské matriky: Národní archiv, fond HBMa, aplikace VadeMeCum (nacr.cz)
+- VadeMeCum nefunguje v CDP Chrome — potřebuje ruční přístup
+
+#### Pikl — distribuce příjmení
+- **Dvůr Králové n.L.: 7 Piklů** — 4. nejvyšší koncentrace v ČR!
+- Strakonice: 22, Praha: 19, Tachov: 14
+- Růžena Piklová mohla pocházet přímo z okolí Dvora Králové
+
+### STAV HYPOTÉZY O MATCE JOSEPHA
+Jméno matky z různých záznamů:
+- Franz 1799: "ux: Ditha/Dithe" — mohlo by být Dorothea nebo Judith
+- Katharina 1795: "Evronia/Eronova" — mohlo být Veronica? 
+- Augustinus 1801: "Helena" — nejjasnější čtení
+- Ignatius 1803: "Hertmanni/Ertmanni" — příjmení za svobodna?
+
+PROBLÉM: Jméno se čte různě v různých záznamech. Transkribus by měl rozhodnout.
