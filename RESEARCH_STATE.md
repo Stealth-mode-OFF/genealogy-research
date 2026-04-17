@@ -140,3 +140,27 @@ PROBLÉM: Jméno se čte různě v různých záznamech. Transkribus by měl roz
 ### Matriky staženy lokálně
 - sign. 35-7 (narozených 1785-1810): `/tmp/matrika_35_7/` — 284 stránek
 - sign. 35-13 (oddaných 1785-1810): `/tmp/matrika_35_13/` — 76 stránek
+
+## PRŮLOM — 17.4.2026 ~18:00 — MATKA NALEZENA!
+
+### Transkribus HTR přepis potvrdil:
+
+**Manželka Josepha Franze Hoffmanna (1766-1828) = HELENA HASZE/HAßE z Liebenthalu**
+
+Důkazy z křestních záznamů (Transkribus AI přepis):
+1. **Franz Xaveri (Nov 1799):** "Helena, Tochter des Haße, zu Liebthal" + "Joseph Hoffmann, und Katharina aus Silberleut"
+2. **Augustinus (Sept 1801):** "Haß und... Cathar:" = Helena Haß, dcera Kathariny
+3. **Ignatius (Aug 1803):** "Helena" potvrzena, "Hoffmann z Podstráně"
+
+### Kompletní identifikace matky:
+- **Jméno:** Helena
+- **Příjmení za svobodna:** Haße / Hasze / Hasse (německý zápis ß)
+- **Rodiště:** Liebthal (Liebenthal = dnes Libeč u Dvora Králové?)
+- **Její rodiče:** otec s příjmením Haße/Hasse + matka Katharina
+- **Bydliště po sňatku:** Silberleut/Sylvárov č. 12
+
+### Otevřené otázky:
+- Kde a kdy se Joseph a Helena vzali? (oddací matrika nenalezena)
+- Kdo byli Helenini rodiče (křestní jméno otce)?
+- Je Hasse/Haße židovské příjmení? (potenciálně — varianta Hase)
+- Kde je Liebthal? (Liebenthal u Dvora Králové, nebo jiný?)
