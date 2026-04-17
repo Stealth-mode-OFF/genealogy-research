@@ -117,3 +117,26 @@ Jméno matky z různých záznamů:
 - Ignatius 1803: "Hertmanni/Ertmanni" — příjmení za svobodna?
 
 PROBLÉM: Jméno se čte různě v různých záznamech. Transkribus by měl rozhodnout.
+
+## UPDATE 17.4.2026 ~17:30
+
+### Oddací matrika 35-13 (1785-1810) — stažena a prohledána
+- 76 stránek, oddaní farnost Dvůr Králové včetně Sylvárova
+- Rok 1792: 3 záznamy — ŽÁDNÝ Hoffmann
+- Rok 1793: "Franz Fffm" (Julio 8, ženich 28 let, nevěsta 16 let) — možný Hoffmann ale jméno je FRANZ ne JOSEPH
+- **Josephova svatba se v matrice 35-13 NENACHÁZÍ pro roky 1790-1794**
+- Možné vysvětlení: oženil se v jiné farnosti, nebo před 1785, nebo neměl katolickou svatbu
+
+### eBadatelna (Archiv bezpečnostních složek)
+- Přihlášen jako Josef Hofman
+- Fond "Hromadná emigrace Izrael" 1948-49 — Hoffmann tam NENÍ
+- Josef Hofman (23.7.1922) — svazek KR-37153, 150 skenů — JINÁ OSOBA než tvůj děda (13.7.1924)
+- Josef Hofman (13.7.1924) — NENALEZEN v ABS
+- Personální spisy VB — SPA navigace nefunguje, fondy se nenačítají
+
+### Pikl v Dvoře Králové
+- 7 osob příjmení Pikl ve Dvoře Králové n.L. — Růžena Piklová mohla pocházet odsud
+
+### Matriky staženy lokálně
+- sign. 35-7 (narozených 1785-1810): `/tmp/matrika_35_7/` — 284 stránek
+- sign. 35-13 (oddaných 1785-1810): `/tmp/matrika_35_13/` — 76 stránek
